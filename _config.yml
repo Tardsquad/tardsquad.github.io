@@ -18,10 +18,10 @@ people:
   pic: 1
   position: .NET Developer
   social:
-    - title: twitter
-      url: #
+    - title: stack-overflow
+      url: https://github.com/tomeo/
     - title: facebook
-      url: #
+      url: https://www.facebook.com/wherefore.art.thou.tomeo
     - title: stack-overflow
       url: #
 
@@ -39,6 +39,17 @@ people:
 - name: Oscar Olsson
   pic: 3
   position: C and JavaScript Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Simon Thörnqvist
+  pic: 4
+  position: JavaScript Developer
   social:
     - title: twitter
       url: #
