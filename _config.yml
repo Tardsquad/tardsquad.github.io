@@ -18,45 +18,37 @@ people:
   pic: 1
   position: .NET Developer
   social:
-    - title: stack-overflow
-      url: https://github.com/tomeo/
-    - title: facebook
-      url: https://www.facebook.com/wherefore.art.thou.tomeo
-    - title: stack-overflow
-      url: #
+    - title: github
+      url: https://github.com/tomeo
+    - title: linkedin
+      url: https://se.linkedin.com/in/tommyi
 
 - name: Fredrik Pettersson
   pic: 2
   position: .NET Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
+    - title: github
+      url: https://github.com/hyperremix
     - title: linkedin
-      url: #
+      url: https://de.linkedin.com/in/fredpe/en
 
 - name: Oscar Olsson
   pic: 3
   position: C and JavaScript Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/DrunkenInfant
+    - title: linkedin
+      url: https://se.linkedin.com/pub/oscar-olsson/46/42/574
 
 - name: Simon Thörnqvist
   pic: 4
   position: JavaScript Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/drowzy
+    - title: linkedin
+      url: https://se.linkedin.com/pub/simon-thörnqvist/61/544/714/en
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
